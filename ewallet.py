@@ -11,6 +11,8 @@ def limpiar_pantalla():
         os.system('cls')
     else:
         os.system('cls')
+
+        
         
 #----MENU PRINCIPAL-----
 def MenuPrincipal():
